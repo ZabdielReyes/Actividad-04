@@ -61,6 +61,7 @@ void editar(int change){
     cin>>a[change-1].telefono;
     cout<<"ingrese El nuevo correo:"<<endl;
     cin>>a[change-1].correo;
+    cout<<"El contacto ha sido cambiado satisfactoriamente de tu agenda"<<endl;
 
 }
 
