@@ -21,6 +21,7 @@ int main(int argc, char** argv) {
 
 void menu(){
 	int opc=0,cve=0;
+	cout<<"Esto es solo un printf del commit XD"<<endl;
 	cout<<"Agenda"<<endl;
 	cout<<"1) registrar"<<endl;
 	cout<<"2) buscar por clave"<<endl;

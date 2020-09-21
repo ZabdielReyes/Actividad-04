@@ -75,6 +75,7 @@ void remover(int erase){
 		strcpy(a[erase].telefono,a[erase+1].telefono);
 		strcpy(a[erase].correo,a[erase+1].correo);
 		erase++;
+		cout<<"Has eliminado el registro de agenda exitosamente!"<<endl;
 	}
 		
 	
